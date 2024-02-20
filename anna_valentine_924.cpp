@@ -33,6 +33,8 @@ int main()
             cout << endl;
             cout << endl;
             continue;
+
+            cout << endl;
         }
         else
         {
